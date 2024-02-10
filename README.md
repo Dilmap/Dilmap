@@ -24,7 +24,7 @@
 #### Frameworks
 
 [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
-[![Django](https://techgator.in/wp-content/uploads/2020/10/django-logo-negative-1024x466.png?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
+[![Django](https://techgator.in/wp-content/uploads/2020/10/django-logo-negative-1024x466.png?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010](https://th.bing.com/th/id/OIP.Iib-jIfgOw8ujHiBj96s5AHaHa?rs=1&pid=ImgDetMain))(#)
 
 
 <h3 align="center">Connect with me:</h3>
