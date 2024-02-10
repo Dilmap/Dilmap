@@ -24,7 +24,8 @@
 #### Frameworks
 
 [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
-[![Django](https://th.bing.com/th/id/OIP.Iib-jIfgOw8ujHiBj96s5AHaHa?rs=1&pid=ImgDetMain?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)(#)
+<img src="django%20-%23DD0031.svg" alt="Django Logo" style="width: 100px; height: auto; background-color: #101010;">
+
 
 
 <h3 align="center">Connect with me:</h3>
