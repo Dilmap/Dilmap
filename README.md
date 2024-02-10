@@ -6,7 +6,7 @@
 <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Greetings to all from Colombia <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geneva&size=30&pause=1000&color=F75B4F&center=verdadero&vCenter=verdadero&repeat=verdadero&random=falso&width=700&height=60&lines=Never+stop+learning!+%F0%9F%8C%9F;Coding+is+my+passion+%F0%9F%92%BB;Keep+calm+and+code+on.+%F0%9F%98%8E+;In+case+of+fire%3A+git+commit%2C+git+push+%F0%9F%94%A5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geneva&size=30&pause=1000&color=F75B4F&center=falso&vCenter=falso&repeat=verdadero&random=falso&width=700&height=60&lines=Never+stop+learning!+%F0%9F%8C%9F;Coding+is+my+passion+%F0%9F%92%BB;Keep+calm+and+code+on.+%F0%9F%98%8E+;In+case+of+fire%3A+git+commit%2C+git+push+%F0%9F%94%A5" alt="Typing SVG" /></a>
 
 
 ## Skills:
