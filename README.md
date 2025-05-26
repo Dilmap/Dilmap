@@ -24,7 +24,6 @@
 #### Frameworks
 
 [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
-[![Django](https://img.shields.io/badge/django%20-%2300FF00.svg?&style=for-the-badge&logo=django&logoColor=white&labelColor=101010&width=100&height=50)](#)
 
 
 
