@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0E2931&text=DILMAP&fontColor=2B7574&fontSize=70&desc=Analista%20%26%20Desarrollador%20de%20Software&descColor=E2E2E0&descSize=20&stroke=861211&strokeWidth=2" width="100%" alt="DILMAP Header" />
+# 🃏 D I L M A P 🃏
+## Analista & Desarrollador de Software
 
-<br>
+> *"Transformando lógica pura en soluciones visuales y arquitecturas de bases de datos robustas. Listo para la siguiente misión."*
 
-<h3>♠️ Preparado para superar el siguiente nivel ♥️</h3>
-<p><i>Base de Operaciones: Colombia</i></p>
+♠️ **Preparado para superar el siguiente nivel** ♥️ <br>
+<i>Base de Operaciones: Colombia</i>
 
 ---
 
