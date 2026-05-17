@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=12484C&height=120&section=header" width="100%"/>
+</p>
+
 <div align="center">
 
 # 🃏 D I L M A P 🃏
@@ -40,7 +44,7 @@
 <div align="center">
 
 ## 🏆 Elige tu Recompensa
-*Haz clic en una carta para revelar mi perfil y conectar:*
+*Haz clic para revelar mi perfil y conectar:*
 
 <br>
 
