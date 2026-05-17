@@ -1,42 +1,58 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Greetings to all from Colombia <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geneva&size=30&pause=1000&color=F75B4F&center=false&vCenter=false&repeat=true&random=false&width=700&height=60&lines=Never+stop+learning!+%F0%9F%8C%9F;Coding+is+my+passion+%F0%9F%92%BB;Keep+calm+and+code+on.+%F0%9F%98%8E+;In+case+of+fire%3A+git+commit%2C+git+push+%F0%9F%94%A5" alt="Typing SVG" /></a>
-
-
-## Skills:
-
-#### Programming Languages
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
-[![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](#)
-</br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
-[![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
-
-#### Frameworks
-
-[![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
-
-
-
-<h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilmap/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dilmap350/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoabdalaflorez@gmail.com)
-  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0E2931&text=DILMAP&fontColor=2B7574&fontSize=70&desc=Analista%20%26%20Desarrollador%20de%20Software&descColor=E2E2E0&descSize=20&stroke=861211&strokeWidth=2" width="100%" alt="DILMAP Header" />
+
+<br>
+
+<h3>♠️ Preparado para superar el siguiente nivel ♥️</h3>
+<p><i>Base de Operaciones: Colombia</i></p>
+
+---
+
+### 📊 Estadísticas de Jugador
+**Lvl 20+** | **100%** Adaptabilidad | **+40%** Optimización SQL | **+150** Registros Gestionados
+
 </div>
 
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<br>
 
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+## 🃏 Atributos de Clase
+
+#### Rango S (Legendario)
+[![Angular](https://img.shields.io/badge/Angular-861211?style=for-the-badge&logo=angular&logoColor=E2E2E0&labelColor=0E2931)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-861211?style=for-the-badge&logo=node.js&logoColor=E2E2E0&labelColor=0E2931)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-861211?style=for-the-badge&logo=mysql&logoColor=E2E2E0&labelColor=0E2931)](#)
+
+#### Rango A (Épico)
+[![Python](https://img.shields.io/badge/Python-2B7574?style=for-the-badge&logo=python&logoColor=E2E2E0&labelColor=0E2931)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-2B7574?style=for-the-badge&logo=javascript&logoColor=E2E2E0&labelColor=0E2931)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-2B7574?style=for-the-badge&logo=typescript&logoColor=E2E2E0&labelColor=0E2931)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-2B7574?style=for-the-badge&logo=html5&logoColor=E2E2E0&labelColor=0E2931)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-2B7574?style=for-the-badge&logo=css3&logoColor=E2E2E0&labelColor=0E2931)](#)
+
+#### Rango B (Soporte)
+[![Git](https://img.shields.io/badge/Git-12484C?style=for-the-badge&logo=git&logoColor=E2E2E0&labelColor=0E2931)](#)
+[![Agile](https://img.shields.io/badge/Metodologías_Ágiles-12484C?style=for-the-badge&logo=scrum&logoColor=E2E2E0&labelColor=0E2931)](#)
+
+<br>
+
+<div align="center">
+
+## 🏆 Elige tu Recompensa
+*Haz clic en una carta para revelar mi perfil y conectar:*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_@dilmap-2B7574?style=for-the-badge&logo=linkedin&logoColor=E2E2E0&labelColor=0E2931)](https://www.linkedin.com/in/dilmap/)
+[![Fiverr](https://img.shields.io/badge/Fiverr_@dilmap-12484C?style=for-the-badge&logo=fiverr&logoColor=E2E2E0&labelColor=0E2931)](https://es.fiverr.com/s/bdRo19P)
+[![Gmail](https://img.shields.io/badge/Gmail_Contacto-861211?style=for-the-badge&logo=gmail&logoColor=E2E2E0&labelColor=0E2931)](mailto:diegoabdalaflorez@gmail.com)
+
+<br>
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=12484C&height=100&section=footer" width="100%"/>
+</p>
+<p><i>Diseñado y desarrollado bajo el sello <b>DILMAP</b> © 2026.</i></p>
+
+</div>
